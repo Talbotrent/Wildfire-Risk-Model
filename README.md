@@ -7,10 +7,10 @@ This is the code for my final project in my GIS with Python course in the fall f
 
 This tool is used for creating a fire risk model using 4 criteria. These criteria are as follows
 
-    Slope with 25% grade or higher
-    South facing aspects
-    Areas that are within 1km of a road
-    Using Rothermel’s 40 Surface Fire Spread Model, areas with a rate of spread that is medium or higher and a flame length that is medium or higher
+- Slope with 25% grade or higher
+- South facing aspects
+- Areas that are within 1km of a road
+- Using Rothermel’s 40 Surface Fire Spread Model, areas with a rate of spread that is medium or higher and a flame length that is medium or higher
 
 These 4 criteria create a model with values of 0 to 4 of no risk to very high risk
 
