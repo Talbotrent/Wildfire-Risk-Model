@@ -3,6 +3,10 @@ This is the code for my final project in my GIS with Python course in the fall f
 
 # Fire Risk Tool
 
+## Data Used:
+
+https://usu.box.com/s/uslmhcxyr7ecbin8djrfu0z2mv5lpe0j
+
 ## Purpose:
 
 This tool is used for creating a fire risk model using 4 criteria. These criteria are as follows
